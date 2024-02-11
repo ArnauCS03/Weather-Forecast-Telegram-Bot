@@ -28,7 +28,7 @@ To run the bot, follow these simple steps:
 Clone the repository:
 
 ```
-git clone [https://github.com/your-username/WeatherForecastBot.git](https://github.com/ArnauCS03/Weather-Forecast-Telegram-Bot.git)
+git clone https://github.com/ArnauCS03/Weather-Forecast-Telegram-Bot.git
 cd Weather-Forecast-Telegram-Bot
 ``` 
 
