@@ -1,6 +1,6 @@
 # Weather Forecast Telegram Bot
 
-This repository showcases my project on creating a Telegram bot focused on weather forecasting, powered by the OpenWeather API. It serves as an excellent learning opportunity for understanding API interactions and building a practical Telegram bot.<br>
+This repository showcases my project on creating a Telegram bot focused on weather forecasting, powered by the OpenWeather API using Python. It serves as an excellent learning opportunity for understanding API interactions and building a practical Telegram bot.<br>
 
 ---
 ## Overview
