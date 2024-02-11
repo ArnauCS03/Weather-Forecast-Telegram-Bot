@@ -5,7 +5,7 @@ This repository showcases my project on creating a Telegram bot focused on weath
 ---
 ## Overview
 
-- OpenWeather API Integration: The bot uses the OpenWeather API to provide real-time weather information for different cities.<br><br>
+- OpenWeather API Integration: The bot uses the [OpenWeather API](https://openweathermap.org/api) to provide real-time weather information for different cities.<br><br>
 
 - Interactive Telegram Experience: Users can receive weather forecasts for predefined cities or input a specific city name directly.<br><br>
 
@@ -57,11 +57,11 @@ Once the bot is running, you can interact with it on Telegram:
 
 ## Learning Resources
 
-To learn the basics of creating your first simple Telegram bot, check out this tutorial:  https://lliçons.jutge.org/python/telegram.html
+To learn the basics of creating your first simple Telegram bot, check out this tutorial:  [Lliçons Jutge Telegram](https://lliçons.jutge.org/python/telegram.html)
 
 ## Bot Link
 
-You can access the bot on Telegram by following this link: https://t.me/PrevisioTempsBot. Please note that it might not respond since the Python script is not currently running.
+You can access the bot on Telegram by following this link: [PrevisioTempsBot](https://t.me/PrevisioTempsBot). Please note that it might not respond since the Python script is not currently running.
 
 Feel free to explore the code, learn from it, and customize it to suit your needs. <br><br>
 
